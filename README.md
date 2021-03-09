@@ -17,3 +17,9 @@ You will be taken to a car dealership landing page when you open up the HTML doc
 
 ## Preview
 Some screen grabs have been taken to show you the design of the site.
+
+![Screenshot 2021-03-09 at 19 04 57](https://user-images.githubusercontent.com/60799980/110524228-0a28c700-810b-11eb-863c-f6f0480fb262.png)
+![Screenshot 2021-03-09 at 19 05 17](https://user-images.githubusercontent.com/60799980/110524242-0e54e480-810b-11eb-93d3-e230ce30d20c.png)
+![Screenshot 2021-03-09 at 19 05 41](https://user-images.githubusercontent.com/60799980/110524248-114fd500-810b-11eb-8895-9cea007e3f2d.png)
+![Screenshot 2021-03-09 at 19 05 54](https://user-images.githubusercontent.com/60799980/110524260-13b22f00-810b-11eb-9a01-855e4d60e17e.png)
+![Screenshot 2021-03-09 at 19 06 05](https://user-images.githubusercontent.com/60799980/110524267-16ad1f80-810b-11eb-957a-7793c3794201.png)
